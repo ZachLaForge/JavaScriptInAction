@@ -81,8 +81,28 @@
 //     console.log("goodbye")
 // }
 
+// let isInstructorAwesome = true
+
+// while(isInstructorAwesome == true) {
+
+// }
 
 //#7 Functions
 
-let favMovie ="Intersterllar";
-    console.log(`${favMovie}`)
+// function printMovieName() {
+//     let bestMovie = "Interstellar";
+//     console.log(bestMovie);
+// }
+
+// let myResult = printMovieName()
+
+// function favoriteBand() {
+//     let bandChoice = prompt("Enter your favorite band.");
+//     return bandChoice;
+// }
+
+// let bandChoice = favoriteBand()
+// console.log(bandChoice);
+
+//#8 Concert 
+
